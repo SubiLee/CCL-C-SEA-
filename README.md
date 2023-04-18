@@ -5,8 +5,8 @@ City Deep Under the Sea
 George Mason University_GAME310_UE5_Team_Project
 
 ## Members
-C_ChungDahye
-C_ChaJuYoung
-L_LeeSuBi
+- C_ChungDahye
+- C_ChaJuYoung
+- L_LeeSuBi
 
 
